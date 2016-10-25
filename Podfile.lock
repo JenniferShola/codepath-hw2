@@ -1,0 +1,43 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AIFlatSwitch (1.0.1)
+  - ARSLineProgress (2.0.0)
+  - BDBOAuth1Manager (1.6.0):
+    - AFNetworking/NSURLConnection (~> 2.6.0)
+    - AFNetworking/NSURLSession (~> 2.6.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - AIFlatSwitch (~> 1.0.1)
+  - ARSLineProgress (~> 2.0)
+  - BDBOAuth1Manager
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  AIFlatSwitch: 5b121a4a90a06f0fbd72e9f1fe9bb30e64d67177
+  ARSLineProgress: a20f4093d44802184cbc135bcd56259d6f12d002
+  BDBOAuth1Manager: cd5a5872f355ca38180d52ca2dd844f0b0c84797
+
+PODFILE CHECKSUM: cc4a99aae0b3447b5a58f3727b3efff1a104fc75
+
+COCOAPODS: 1.0.1
