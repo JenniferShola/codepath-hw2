@@ -34,11 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I got stuck wayyy too long on the filters page, trying to make the list drop down or make the other distance switches hide.
+I got stuck on the filters page, trying to make the list drop down or make the other distance switches hide. I also got stuck trying to make the filters app pop up modally. The code was simple but implementing this in Swift 3, I didn't have the right method for it so it wasn't triggering and it took me some time to debug.
 
-I also got stuck on trying to make the filters app pop up modally. The code was simple but implementing this in Swift 3, I didn't have the write method for it so it wasn't triggering and it took me some time to debug.
-
-I also got confused on different elements how to find and alter methods versus understanding that the item was something that I could get functionality from in a cocopod, etc. It was like I was understanding the individual parts but not always how they fit together. 
+I also got confused while trying to find and alter methods to create the functionality I wanted versus understanding that the item was something that I could get functionality in a cocopod, etc. I understood the individual parts but not always how they fit together. Nonetheless, it was a good introduction to Swift.
 
 
 ## License
